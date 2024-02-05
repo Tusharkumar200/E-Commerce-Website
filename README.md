@@ -1,7 +1,3 @@
-Certainly! Here's a sample description for your e-commerce GitHub repository where you're working with React.js:
-
----
-
 # E-Commerce Website with React.js
 
 Welcome to our E-Commerce project built with React.js! This repository contains the source code for a modern and responsive online shopping platform, providing a seamless user experience for both customers and administrators.
