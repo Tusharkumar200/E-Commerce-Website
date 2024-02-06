@@ -1,14 +1,16 @@
 import Navigation from './customer/components/Navigation/Navigation';
 import HomePage from './customer/pages/HomePage/HomePage';
+import Footer from './customer/components/Footer/Footer';
 import './App.css';
 
 function App() {
   return (
     <div className="">
-      <div>
         <Navigation />
-      </div>
+      <div>
       <HomePage />
+      </div>
+      <Footer />
     </div>
   );
 }
